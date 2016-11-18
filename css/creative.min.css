@@ -206,7 +206,7 @@ header {
     background-size: cover;
     -o-background-size: cover;
     background-position: center;
-    background-image: url(/img/header.jpg);
+    background-image: url(https://cdn.rawgit.com/QLN-SuperCamp/Mockup1/master/img/header.jpg);
     color: #fff
 }
 
