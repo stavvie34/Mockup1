@@ -41,7 +41,7 @@ h6 {
 }
 
 hr {
-    border-color: #34618C;
+    border-color: #45769c;
     border-width: 3px;
     max-width: 50px
 }
@@ -52,7 +52,7 @@ hr.light {
 
 a {
     transition: all .35s;
-    color: #34618C
+    color: #45769c
 }
 
 a:focus,
@@ -67,7 +67,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #34618C;
+    background-color: #45769c;
 }
 
 .bg-dark {
@@ -80,7 +80,7 @@ p {
 }
 
 .bg-3 {
-    background-color: #34618C;
+    background-color: #45769c;
 }
 
 .bg-4 {
@@ -116,14 +116,14 @@ aside {
 }
 
 .navbar-default .navbar-header .navbar-brand {
-    color: #34618C;
+    color: #45769c;
     font-weight: 700;
     text-transform: uppercase
 }
 
 .navbar-default .navbar-header .navbar-brand:focus,
 .navbar-default .navbar-header .navbar-brand:hover {
-    color: #34618C
+    color: #45769c
 }
 
 .navbar-default .navbar-header .navbar-toggle {
@@ -143,12 +143,12 @@ aside {
 
 .navbar-default .nav>li>a:focus:hover,
 .navbar-default .nav>li>a:hover {
-    color: #34618C
+    color: #45769c
 }
 
 .navbar-default .nav>li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #34618C!important;
+    color: #45769c!important;
     background-color: transparent
 }
 
@@ -194,7 +194,7 @@ aside {
 }
 
 .modal-works span {
-    background-color: #34618C;
+    background-color: #45769c;
     margin-left: auto;
     margin-right: auto;
     padding: 5px 10px;
@@ -225,7 +225,7 @@ aside {
         border-color: rgba(34, 34, 34, .05)
     }
     .navbar-default.affix .navbar-header .navbar-brand {
-        color: #34618C;
+        color: #45769c;
         font-size: 14px
     }
     .navbar-default.affix .navbar-header .navbar-brand:focus,
@@ -238,7 +238,7 @@ aside {
     }
     .navbar-default.affix .nav>li>a:focus:hover,
     .navbar-default.affix .nav>li>a:hover {
-        color: #34618C
+        color: #45769c
     }
 }
 
@@ -398,7 +398,7 @@ header .header-content .header-content-inner p {
 }
 
 .text-primary {
-    color: #34618C
+    color: #45769c
 }
 
 .text-dark {
@@ -406,15 +406,15 @@ header .header-content .header-content-inner p {
 }
 
 .text-2 {
-    color: #34618C;
+    color: #45769c;
 }
 
 .text-3 {
-    color: #34618C;
+    color: #45769c;
 }
 
 .text-4 {
-    color: #34618C;
+    color: #45769c;
 }
 
 .no-gutter>[class*=col-] {
@@ -469,8 +469,8 @@ fieldset[disabled] .btn-default:hover {
 
 .btn-primary {
     color: #fff;
-    background-color: #34618C;
-    border-color: #34618C;
+    background-color: #45769c;
+    border-color: #45769c;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s
@@ -483,8 +483,8 @@ fieldset[disabled] .btn-default:hover {
 .btn-primary:hover,
 .open>.dropdown-toggle.btn-primary {
     color: #fff;
-    background-color: #34618C;
-    border-color: #34618C
+    background-color: #45769c;
+    border-color: #45769c
 }
 
 .btn-primary.disabled,
@@ -510,7 +510,7 @@ fieldset[disabled] .btn-primary:hover {
 }
 
 .btn-primary .badge {
-    color: #34618C;
+    color: #45769c;
     background-color: #fff
 }
 
