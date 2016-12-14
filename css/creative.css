@@ -181,7 +181,7 @@ Hover Tests
     clear: both;
 }
 
-.ch-grid li {
+.tmcontain {
     width: 220px;
     height: 220px;
     display: inline-block;
