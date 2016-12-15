@@ -199,6 +199,8 @@ Hover Tests
 
 /* you need a defined width or height for the div (keep same as pic). possibly need to set up whole new row for mobile.*/
 
+
+/*THE STUFF BELOW WORKS BUT IT IS IN A UNORDERED LIST. GOING TO ATTEMPT COLUMNS. DO NOT DELETE BELOW.
 .ch-item {
     width: 225px;
     height: 225px;
@@ -212,7 +214,7 @@ Hover Tests
 }
 
 
-/*add background images*/
+/*add background images
 
 .ch-img-1 {
     background-image: url(http://www.supercamp.com/wp-content/uploads/2016/11/Megan-1.jpg);
@@ -227,7 +229,7 @@ Hover Tests
 }
 
 
-/*set transparent background on description and absolute position*/
+/*set transparent background on description and absolute position
 
 .ch-info {
     position: absolute;
@@ -242,7 +244,7 @@ Hover Tests
 }
 
 
-/*title of item*/
+/*title of item*
 
 .ch-info h3 {
     color: #fff;
@@ -258,7 +260,7 @@ Hover Tests
 }
 
 
-/*paragraph*/
+/*paragraph*
 
 .ch-info p {
     color: #fff;
@@ -270,7 +272,7 @@ Hover Tests
 }
 
 
-/*link*/
+/*link*
 
 .ch-info p a {
     display: block;
@@ -289,14 +291,14 @@ Hover Tests
 }
 
 
-/*hover the box shadow on item radius*/
+/*hover the box shadow on item radius*
 
 .ch-item:hover {
     box-shadow: inset 0 0 0 110px rgba(200, 95, 66, 0.4), inset 0 0 0 16px rgba(255, 255, 255, 0.8), 0 1px 2px rgba(0, 0, 0, 0.1);
 }
 
 
-/*fade in description*/
+/*fade in description*
 
 .ch-item:hover .ch-info {
     transform: scale(1);
@@ -304,11 +306,13 @@ Hover Tests
 }
 
 
-/*fade in paragraph*/
+/*fade in paragraph*
 
 .ch-item:hover .ch-info p {
     opacity: 1;
 }
+
+THIS IS THE END OF THE STUFF THAT WORKS BUT IS IN AN UNORDERED LIST*/
 
 
 /*--------------------
