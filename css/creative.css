@@ -226,6 +226,18 @@ Hover Tests
     background-image: url(http://www.supercamp.com/wp-content/uploads/2016/11/Spencer-2.jpg);
 }
 
+.ch-img-4 {
+    background-image: url(http://www.supercamp.com/wp-content/uploads/2016/11/Alex.jpg);
+}
+
+.ch-img-5 {
+    background-image: url(http://www.supercamp.com/wp-content/uploads/2016/11/Tenissa.jpg);
+}
+
+.ch-img-6 {
+    background-image: url(http://www.supercamp.com/wp-content/uploads/2016/11/Jeff.jpg);
+}
+
 
 /*set transparent background on description and absolute position*/
 
