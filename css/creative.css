@@ -312,6 +312,18 @@ Hover Tests
     opacity: 1;
 }
 
+.bobbi-img {
+    margin: 25px auto;
+    border: 7px solid #fff;
+}
+
+@media (min-width:768px) {
+    .bobbi-img {
+        margin: 0 auto;
+        border: 7px solid #fff;
+    }
+}
+
 
 /*fade in paragraph*/
 
