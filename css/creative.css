@@ -317,7 +317,7 @@ Hover Tests
 
 .ch-item-small .ch-info h3 {
     font-size: 20px;
-    padding: 50 0 0;
+    padding: 40px 0 0;
     margin: -10px 20px;
 }
 
@@ -422,6 +422,7 @@ Hover Tests
 
 .ch-item-small .hr-small {
     max-width: 100px;
+    margin-top: -20px;
 }
 
 
