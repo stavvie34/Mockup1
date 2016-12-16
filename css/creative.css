@@ -395,6 +395,12 @@ Hover Tests
     z-index: 1;
 }
 
+.div-center {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
 
 /*--------------------
 6. Modal
