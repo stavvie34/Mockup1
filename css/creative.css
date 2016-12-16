@@ -406,12 +406,6 @@ Hover Tests
     z-index: 1;
 }
 
-.div-center {
-    display: inline-block;
-    vertical-align: middle;
-    float: none;
-}
-
 .hr-small {
     margin-top: 0px;
     margin-bottom: 5px;
