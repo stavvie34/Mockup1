@@ -409,6 +409,10 @@ Hover Tests
     border-top-width: 2px;
 }
 
+.ch-item-small .hr-small {
+    max-width: 100px;
+}
+
 
 /*--------------------
 6. Modal
