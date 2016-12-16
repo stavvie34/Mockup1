@@ -349,14 +349,16 @@ Hover Tests
 
 /*hover the box shadow on item radius*/
 
-.ch-item:hover {
+.ch-item:hover,
+.ch-item-small:hover {
     box-shadow: inset 0 0 0 110px rgba(0, 0, 0, 0.8), 0 1px 2px rgba(0, 0, 0, 0.1);
 }
 
 
 /*fade in description*/
 
-.ch-item:hover .ch-info {
+.ch-item:hover .ch-info,
+.ch-item-small:hover .ch-info {
     transform: scale(1);
     opacity: 1;
 }
@@ -379,7 +381,8 @@ Hover Tests
 
 /*fade in paragraph*/
 
-.ch-item:hover .ch-info p {
+.ch-item:hover .ch-info p,
+.ch-item-small:hover .ch-info p {
     opacity: 1;
 }
 
