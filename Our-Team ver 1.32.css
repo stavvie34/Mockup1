@@ -636,33 +636,6 @@ Hover Tests
     border-color: #ededed
 }
 
-.btn-default.disabled,
-.btn-default.disabled.active,
-.btn-default.disabled.focus,
-.btn-default.disabled:active,
-.btn-default.disabled:focus,
-.btn-default.disabled:hover,
-.btn-default[disabled],
-.btn-default[disabled].active,
-.btn-default[disabled].focus,
-.btn-default[disabled]:active,
-.btn-default[disabled]:focus,
-.btn-default[disabled]:hover,
-fieldset[disabled] .btn-default,
-fieldset[disabled] .btn-default.active,
-fieldset[disabled] .btn-default.focus,
-fieldset[disabled] .btn-default:active,
-fieldset[disabled] .btn-default:focus,
-fieldset[disabled] .btn-default:hover {
-    background-color: #fff;
-    border-color: #fff
-}
-
-.btn-default .badge {
-    color: #fff;
-    background-color: #222
-}
-
 .btn-primary {
     color: #fff;
     background-color: #45769c;
@@ -688,33 +661,6 @@ fieldset[disabled] .btn-default:hover {
     border-color: #45769c
 }
 
-.btn-primary.disabled,
-.btn-primary.disabled.active,
-.btn-primary.disabled.focus,
-.btn-primary.disabled:active,
-.btn-primary.disabled:focus,
-.btn-primary.disabled:hover,
-.btn-primary[disabled],
-.btn-primary[disabled].active,
-.btn-primary[disabled].focus,
-.btn-primary[disabled]:active,
-.btn-primary[disabled]:focus,
-.btn-primary[disabled]:hover,
-fieldset[disabled] .btn-primary,
-fieldset[disabled] .btn-primary.active,
-fieldset[disabled] .btn-primary.focus,
-fieldset[disabled] .btn-primary:active,
-fieldset[disabled] .btn-primary:focus,
-fieldset[disabled] .btn-primary:hover {
-    background-color: #305b82;
-    border-color: #305b82;
-}
-
-.btn-primary .badge {
-    color: #45769c;
-    background-color: #fff
-}
-
 .btn {
     border: none;
     border-radius: 300px;
@@ -725,28 +671,6 @@ fieldset[disabled] .btn-primary:hover {
 .btn-xl {
     padding: 15px 30px;
     margin-top: 15px;
-}
-
-::-moz-selection {
-    color: #fff;
-    text-shadow: none;
-    background: #222
-}
-
-::selection {
-    color: #fff;
-    text-shadow: none;
-    background: #222
-}
-
-img::selection {
-    color: #fff;
-    background: 0 0
-}
-
-img::-moz-selection {
-    color: #fff;
-    background: 0 0
 }
 
 #team>div>div>div>h4 {
@@ -794,10 +718,6 @@ img::-moz-selection {
 
 .modal {
     top: 70px;
-}
-
-#contact>div>div>div>h2 {
-    color: #222222;
 }
 
 #about>div>div>div>h2 {
