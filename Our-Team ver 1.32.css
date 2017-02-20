@@ -71,10 +71,6 @@ p {
     background-color: #97ABBD;
 }
 
-.bg-3 {
-    background-color: #45769c;
-}
-
 .bg-4 {
     background-color: #97ABBD;
 }
@@ -90,10 +86,6 @@ section {
 
 aside {
     padding: 50px 0
-}
-
-.no-padding {
-    padding: 0
 }
 
 .btn-default,
@@ -193,10 +185,6 @@ Hover Tests
 
 .ch-img-TSmith-lg {
     background-image: url(http://www.supercamp.com/wp-content/uploads/2016/11/Tenissa.jpg);
-}
-
-.ch-img-JMiller-lg {
-    background-image: url(http://www.supercamp.com/wp-content/uploads/2016/11/Jeff.jpg);
 }
 
 .ch-img-BBalkwill {
@@ -628,27 +616,6 @@ Hover Tests
 
 .text-primary {
     color: #45769c
-}
-
-.text-dark {
-    color: #222;
-}
-
-.text-2 {
-    color: #45769c;
-}
-
-.text-3 {
-    color: #45769c;
-}
-
-.text-4 {
-    color: #45769c;
-}
-
-.no-gutter>[class*=col-] {
-    padding-right: 0;
-    padding-left: 0
 }
 
 .btn-default {
